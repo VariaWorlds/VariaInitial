@@ -77,7 +77,7 @@ A (chatgpt):
 |---|---|---|
 | **MUD** | Программируемые игровые миры с on-chain состоянием | * |
 
-<table truncated to exclude any game's names>
+<i>(table truncated to exclude any game's names)</i>
 
 Мой выбор: **свой движок на * или * + отдельный Web3-слой**. Не привязывать фундамент мультиверса к экономике одной блокчейн-игры.
 
